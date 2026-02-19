@@ -4,8 +4,11 @@
 [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)](https://vite.dev)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://shaked-resume-builder.vercel.app)
 
 A modern, browser-based resume builder that lets you create, customize, and export professional resumes as PDF - no account or backend required.
+
+**Try it live: [shaked-resume-builder.vercel.app](https://shaked-resume-builder.vercel.app)**
 
 ---
 
